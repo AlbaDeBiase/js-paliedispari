@@ -21,10 +21,11 @@ var parola_corrente = parole[i];
 }
 
 function checkPalindrome(str) {
-  if (str== str.split('').reverse('').join(''));{
-return true;
+  if (str== str.split('').reverse('').join('')) {
+  return true;
+}else{
+ return false;
 }
-
 }
 
 

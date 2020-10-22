@@ -14,9 +14,9 @@ var parola_corrente = parole[i];
 
 
     if(checkPalindrome(parola_corrente)) {
-        console.log("il nome" + parola_corrente + "è palindromo");
+        console.log(" il nome " + parola_corrente + " è palindromo ");
     } else {
-        console.log("il nome" + parola_corrente + "non è palindromo");
+        console.log(" il nome " + parola_corrente + " non è palindromo ");
     }
 }
 
